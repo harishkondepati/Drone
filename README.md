@@ -36,14 +36,10 @@ Tools and knowledge:<br>
 Step 2: Assemble and Connect<br>
 Assemble and Connect<br>
 1) The motors and ESC's can be connected to each other via direct soldering or using Bullet Connectors of 4mm dimension.<br>
-
 2) The ESC's are then connected to the power distribution board, or in this case directly to the frame which has an inbuilt power distribution board, by soldering. (Make sure to know if the ESC's are supposed to be flashed or not, mine did not required to do so.)
-
 <br>3) Once this is done, solder the battery wire to the frame.<br>
-
 4) Once all the soldering work is done,and the hardware is setup, connect the KK Board(again flashed with the latest firmware) with the ESC servo wires, and Receiver.
 <br>
-Add TipAsk QuestionCommentDownload<br>
 Step 3: Plug in the Battery and Test Your Quadcopter<br>
 Plug in the Battery and Test Your Quadcopter<br>
 1) If your code is all correct and your connections are all good you should see the LCD screen on the board lit up, from where you can easily calibrate both the Accelerometer and Magnetometer.
